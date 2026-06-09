@@ -15,4 +15,7 @@ This project is not intended as an official distribution of the [Hamlib](https:/
 
 Several applications and libraries developed under the S4 domain require the **Hamlib** libraries, as well as other third-party libraries. While I support and appreciate package installers such as Homebrew and MacPorts, the applications I am building necessitate the inclusion of all components within a single binary.
 
+## Advisory
+This project and any binaries compiled using the shell script are suitable for my intended applications. Currently, I do not perform any extensive testing either through the script or independently on the output of the shell script. Consequently, this project produces binaries that are **without warranty** and **use at your own risk**.
 
+I welcome pull requests (PRs), but as mentioned above, the primary purpose of this repository is to serve the needs of the applications developed as part of my *S4* suite. PRs that support newer Apple Silicon (M*) processors or provide valuable enhancements to the build script may be considered.
