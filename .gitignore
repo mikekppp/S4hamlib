@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# S4hamlib-specific ignores
+Hamlib/
+shared_libs/bin/
+shared_libs/include/
+shared_libs/lib/
+shared_libs/share/
+tests/hamlib_tests_*.txt

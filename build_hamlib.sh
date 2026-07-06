@@ -63,7 +63,7 @@ fi
 
 
 # clone the working (release) directory
-git clone --recurse-submodules --branch 4.7.1 --depth 1 https://github.com/Hamlib/Hamlib.git
+git clone --recurse-submodules --branch 4.7.2 --depth 1 https://github.com/Hamlib/Hamlib.git
 
 
 
