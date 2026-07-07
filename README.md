@@ -5,7 +5,7 @@ This repository exists solely to provide an *easy* shell script for building [Ha
 
 The shell script 
 
-- clones the release version (currently 4.7.1) of Hamlib, 
+- clones the release version (currently 4.7.2) of Hamlib, 
 - builds it, 
 - places the build results in the `shared_libs` directory, 
 - and invokes `make check` to run the tests included with the source, placing the output in the `tests` directory
